@@ -17,3 +17,5 @@
 ---
 
 ## scripts
+
+Scripts for building/solving puzzles, exploiting vulnerabilities, or solving simple problems.
